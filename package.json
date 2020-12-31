@@ -1,0 +1,33 @@
+{
+  "name": "series",
+  "version": "1.0.0",
+  "description": "series",
+  "main": "index.php",
+  "scripts": {
+    "test": "none",
+    "build": "node-sass dist/scss -o dist/css",
+    "watch": "sass --watch dist/scss:dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "series"
+  ],
+  "author": "oxipusio",
+  "license": "SEE LICENSE IN README.md",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "node-sass": "^5.0.0",
+    "popper.js": "^1.16.1",
+    "sass": "^1.32.0",
+    "script": "^0.1.4",
+    "sweetalert2": "^10.12.6"
+  }
+}
