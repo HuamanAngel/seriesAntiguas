@@ -2,3 +2,5 @@
 <link rel="stylesheet" href="dist/lib/animatecss/animate.css">
 <link rel="stylesheet" href="dist/lib/bootstrap/bootstrap.css">
 <link rel="stylesheet" href="dist/lib/fontawesome-free/css/all.css">
+
+<?php ?>

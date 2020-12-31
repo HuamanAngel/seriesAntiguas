@@ -4,3 +4,4 @@
 <script src="dist/lib/bootstrap/bootstrap.js"></script>
 <script src="dist/lib/fontawesome-free/js/all.js"></script>
 <script src="dist/js/jsHome.js"></script>
+<?php ?>
