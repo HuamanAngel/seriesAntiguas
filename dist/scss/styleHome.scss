@@ -1,19 +1,7 @@
 
 $bg-color-green: #12a432;
-
+$bg-color-red: #ab1232;
 .principal-card{
     background-color: $bg-color-green;
-}
-.principal-card-b{
-    background-color: $bg-color-green;
-}
-
-.principal-card-c{
-    background-color: $bg-color-green;
-}
-.principal-card-d{
-    background-color: $bg-color-green;
-}
-.principal-card-ms{
-    background-color: $bg-color-green;
+    color: $bg-color-red;
 }
